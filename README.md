@@ -17,9 +17,7 @@ part is to implement a RECURSIVE solution to this problem. Your recursive soluti
 the cost for the subset of options that yields the MAXIMUM power gain. Note that, as you look for
 the maximum power gain, you should consider each subset of options (using a recursive approach).
 Note that, as you look for the OPTIMAL power gain, you should consider each subset of options
-(using a recursive approach). Hint: You may like to watch/read the lecture for recursion on our course
-page (week 6). You should implement the1 pt2.c. Iterative solutions WILL NOT be accepted as
-an answer and will get 0.
+(using a recursive approach).
 You must consider these:
 • Each improvement has a cost and power boost values.
 • These cost and power boost values are variable, they will be provided to you as inputs.
